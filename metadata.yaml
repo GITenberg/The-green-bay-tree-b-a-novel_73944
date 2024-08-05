@@ -1,0 +1,38 @@
+_repo: The-green-bay-tree-b-a-novel_73944
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bromfield, Louis
+    alias: Bromfield, Luis
+    birthdate: 1896
+    deathdate: 1956
+    gutenberg_agent_id: '56672'
+    url: http://www.gutenberg.org/2009/agents/56672
+    wikipedia: https://en.wikipedia.org/wiki/Louis_Bromfield
+description: ''
+gutenberg_issued: '2024-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73944'
+  lccn: '24007113'
+language: en
+pgterms:marc905: 20221229052601bromfield
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNYC :$bGrosset & Dunlap Publishers, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'France -- Fiction'
+- !lcsh 'World War, 1914-1918 -- France -- Fiction'
+- !lcsh 'Ohio -- Fiction'
+- !lcsh 'Women -- Ohio -- Fiction'
+- !lcsh 'Mansfield (Ohio) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The green bay tree : $b a novel'
+url: http://www.gutenberg.org/ebooks/73944
